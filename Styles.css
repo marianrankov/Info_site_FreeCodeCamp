@@ -17,7 +17,6 @@ body{
     margin: 0px;
     border-right: 1px solid black;
     overflow: auto;
-    
 }
 #main-doc{
     margin-left: 310px;
@@ -27,31 +26,28 @@ body{
     font-size: 1.8em;
     margin: 10px;
 }
-#navbar div{
+#navbar a{
     display: block;
     height: 40px;
     border-top: 1px solid black;
     margin-top: 5px;
- 
-
-}
-#navbar div a{
-    display: block;
     color: black;
     font-size: 16px;
     font-weight: 400;
     padding: 12px 0 0 15px;
-    
+ 
+
 }
-#navbar div a:link{
+
+#navbar  a:link{
     text-decoration: none;
 
 }
-#navbar div a:visited{
+#navbar  a:visited{
     text-decoration: none;
 
 }
-#navbar div a:active{
+#navbar  a:active{
     text-decoration: none;
 }
 
